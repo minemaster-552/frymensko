@@ -1,0 +1,21 @@
+.flag-blue {
+    background-color: #004080;
+}
+.flag-yellow {
+    background-color: #fcd116;
+}
+.flag-light-blue {
+    background-color: #75aadb;
+}
+.flag-red {
+    background-color: #ce1126;
+}
+.background {
+    background-image: linear-gradient(to right,#fcd116, #ffffff);
+}
+.title {
+    float: right;
+    padding-right: 16%;
+    margin: 2%;
+    margin-left: 10%;
+}
